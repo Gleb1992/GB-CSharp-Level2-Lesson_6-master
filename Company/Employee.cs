@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace GB_CSharp_Level2_Lesson_6
 {
     /// <summary>
-    /// Базовый класс работников
+    /// Базовый класс работников 
     /// </summary>
     public class Employee : IComparable<Employee>, INotifyPropertyChanged
     {
